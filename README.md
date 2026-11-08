@@ -69,7 +69,7 @@ Observability        : New Relic, Splunk, FluentBit, Amazon CloudWatch
 ## 📬 Connect With Me
 
 - 💼 **LinkedIn**: [linkedin.com/in/manideep-i-98188a28b](http://www.linkedin.com/in/manideep-i-98188a28b)
-- 📧 **Email**: `inmanideep@gmail.com`
+- 📧 **Email**: `askmanideep@gmail.com`
 - 🐙 **GitHub**: [github.com/manideep-i](https://github.com/manideep-i)
 
 ---
