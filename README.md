@@ -1,6 +1,6 @@
 # Hi there, I'm Manideep Inapakolla 👋
 
-### 🚀 Senior Cloud Infrastructure Architect & DevSecOps Lead @ AWS
+### 🚀 Cloud Infrastructure Architect @ AWS
 **4x AWS Certified** | **Cloud Architect** | **DevOps & Android Developer**
 
 Senior Cloud Infrastructure Architect with 8+ years of experience designing, automating, and scaling enterprise AWS environments, Kubernetes (EKS/ECS) platforms, and DevSecOps pipelines. Proven track record in multi-account cloud network architecture, zero-downtime server migrations, serverless architectures, and MLOps automation from edge to cloud.
