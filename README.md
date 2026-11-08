@@ -20,7 +20,7 @@ Senior Cloud Infrastructure Architect with 8+ years of experience designing, aut
 
 - 🧹 **[Console Data Beautifier](https://github.com/manideep-i/console-data-beautifier)** *(Published VS Code Extension)*  
   An open-source IDE utility that parses, unescapes, and beautifies complex log output, escaped JSON strings, and API payloads directly within the developer console.  
-  👉 Available on the [VS Code Marketplace](https://marketplace.visualstudio.com/).
+  👉 Available on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Manideep.console-data-beautifier).
 
 - 🏗️ **[ansible-aws-ecs-infrastructure](https://github.com/manideep-i/ansible-aws-ecs-infrastructure)**  
   Automated AWS Cloud Infrastructure provisioning with Ansible & Boto for VPCs, Security Groups, ELB, and ECS Auto Scaling clusters.
